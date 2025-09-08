@@ -1,0 +1,7 @@
+langchain-community
+langchain_huggingface
+langchain-ollama
+langchain-core
+streamlit
+transformers
+langchain-groq
